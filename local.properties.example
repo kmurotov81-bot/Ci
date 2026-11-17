@@ -1,0 +1,3 @@
+# Bu faylni "local.properties" nomi bilan nusxalab, Gemini API kalitingizni kiriting.
+# "local.properties" hech qachon git'ga commit qilinmaydi (.gitignore da bor).
+GEMINI_API_KEY=SIZNING_GEMINI_API_KALITINGIZ
